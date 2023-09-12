@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Onnx Runtime Mobile Image Classifier</string>
+    <string name="image_classification">Image Classification</string>
+    <string name="bert_q_a"><![CDATA[BERT Q & A]]></string>
+    <string name="place_holder">Place Holder</string>
+    <string name="ml_framework_demo_on_mdep">ML Framework Demo on MDEP</string>
+</resources>
